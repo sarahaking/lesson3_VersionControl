@@ -4,15 +4,15 @@
 LIS 2360:  Web Application Development
 
 ## Assignment Date:  
-(Month Day, Year)
+(February 3rd, 2016)
 
 ## Student Name:  
-(First and Last Name)
+(Sarah King)
 
 ## Project Description:
-(In your own words, briefly describe the assignment.)
+(This weeks assingment was to create a Git account and link it to our Cloud9 account. Then, we were to summarize five key concepts from this weeks lessons.)
 
 ## Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (I learned what Git is exactly and why it's beneficial to store changes to files.)
+2. (I learned that Git stores data differently than other systems, by using snapshots.)
+3. (I leanred how to move, add and delete files through Git and the commands that make those changes.)
